@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RuhulAminDSi&label=Profile%20views&color=0e75b6&style=flat" alt="RuhulAminDSi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=RuhulAminDSi&column=6&margin-w=8&no-frame=true" alt="RuhulAminDSi trophies" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=RuhulAminDSi&title=MultiLanguage,LongTimeUser,NewUser,Commits,Repositories,Followers,PullRequest&column=7&margin-w=8&no-frame=true" alt="RuhulAminDSi trophies" /></a> </p>
 
 - 🔭 I’m currently working as an **SQA Engineer** at **[Dynamic Solution Innovators Ltd. (DSi)](https://www.dsinnovators.com)**
 
