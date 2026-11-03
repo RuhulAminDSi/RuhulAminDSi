@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RuhulAminDSi](https://github.com/RuhulAminDSi)
 
-- 💬 Ask me about **Playwright, Cypress, API Testing, JMeter, k6 and ReportPortal**
+- 💬 Ask me about **Playwright, Cypress, Postman & API Testing, JMeter, k6 and ReportPortal**
 
 - 📫 How to reach me **hmruhul16.mbstu@gmail.com**
 
