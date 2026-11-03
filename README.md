@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RuhulAminDSi&label=Profile%20views&color=0e75b6&style=flat" alt="RuhulAminDSi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RuhulAminDSi" alt="RuhulAminDSi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=RuhulAminDSi&column=-1&margin-w=8&no-frame=true" alt="RuhulAminDSi trophies" /></a> </p>
 
 - 🔭 I’m currently working as an **SQA Engineer** at **[Dynamic Solution Innovators Ltd. (DSi)](https://www.dsinnovators.com)**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Playwright, Cypress, API Testing, JMeter, k6 and ReportPortal**
 
-- 📫 How to reach me **hmruhul16.ict@gmail.com**
+- 📫 How to reach me **hmruhul16.mbstu@gmail.com**
 
 - 📄 Know about my experiences [ruhulsportfolio.vercel.app](https://ruhulsportfolio.vercel.app)
 
@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/hmruhul-ict" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hmruhul-ict" height="30" width="40" /></a>
 <a href="https://ruhulsportfolio.vercel.app" target="blank"><img align="center" src="https://cdn.simpleicons.org/vercel/0e75b6" alt="portfolio" height="30" width="40" /></a>
-<a href="mailto:hmruhul16.ict@gmail.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail" alt="email" height="30" width="40" /></a>
+<a href="mailto:hmruhul16.mbstu@gmail.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail" alt="email" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -57,8 +57,10 @@
 <img src="https://img.shields.io/badge/Rest_Assured-6DB33F?style=flat-square" alt="Rest Assured"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RuhulAminDSi&show_icons=true&locale=en&layout=compact" alt="RuhulAminDSi" /></p>
+<h3 align="left">GitHub Stats:</h3>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RuhulAminDSi&theme=default" alt="GitHub stats" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RuhulAminDSi&theme=default" alt="Top languages" height="180" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RuhulAminDSi&show_icons=true&locale=en" alt="RuhulAminDSi" /></p>
-
-<p><img align="center" src="https://streak-stats.demolab.com/?user=RuhulAminDSi" alt="RuhulAminDSi" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=RuhulAminDSi" alt="GitHub streak" /></p>
